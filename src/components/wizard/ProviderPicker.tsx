@@ -1,7 +1,5 @@
 "use client";
 
-import type { AIProvider, EmailProvider } from "@/types/tenant";
-
 interface ProviderOption {
   id: string;
   name: string;
